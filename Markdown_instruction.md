@@ -28,6 +28,9 @@
 
 ## Ссылки
 
+Чтобы создать внешнюю ссылку на, необходимо сделать следующее:
+[Шпаргалка по синтаксису markdown](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12)
+
 ## Работа с таблицами
 
 ## Цитаты
