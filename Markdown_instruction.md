@@ -32,7 +32,7 @@
 [Шпаргалка по синтаксису markdown](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12)
 
 ## Работа с таблицами
-
+Не знаю как создавать таблицы :(
 ## Цитаты
 
 ## Заключение
